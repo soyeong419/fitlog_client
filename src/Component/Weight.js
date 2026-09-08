@@ -4,7 +4,7 @@ import { useSelector } from 'react-redux';
 import axios from 'axios';
 import jaxios from '../util/JWTUtil';
 import '../style/main.css';
-import '../style/weight.css';
+import '../style/Weight.css';
 
 import {
     Chart as ChartJS,
